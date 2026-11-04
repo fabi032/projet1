@@ -426,8 +426,9 @@ border-radius: 50%;}
 
 
 
+.globFooter{background-color: #FF6600;}
 
-.footer{background-color: #FF6600;
+.footer{
 display: flex;
 height:400px;
 color: #fff;
@@ -499,3 +500,7 @@ background-color: #42210B;}
 
 .footer form button a{color:#fff;
 text-decoration: none;}
+
+.globFooter .copyright{text-align:center;
+color:#fff;
+padding-bottom:20px;}
