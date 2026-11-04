@@ -49,7 +49,7 @@ nav .but button a{
     main{margin:20px 0;}
 
 
-    main .slide{background: url(slide-2.png);
+    main .slide{background: url(slide-der.png);
     background-repeat: no-repeat;
 }
 
@@ -132,7 +132,7 @@ margin:10px 0;
 main .section1 .cont1 .Para1 span{color:#FF6600;
 font-weight: bold;}
 
-main .section1 .cont2{background:url(slide-2.png);
+main .section1 .cont2{background:url(slide-der.png);
     background-repeat: no-repeat;
     background-position: center;
 width:45%;
@@ -155,7 +155,7 @@ align-items: center;
 padding: 40px 0;
 gap:20px;}
 
-main .section2 .cont3{background:url(slide-2.png);
+main .section2 .cont3{background:url(slide-der.png);
     background-repeat: no-repeat;
     background-position: center;
     width:50%;
@@ -221,7 +221,7 @@ border-radius: 8px;
 line-height: 1.8;
 padding-left: 70px;}
 
-.section3 .cont7{background: url(image3.png);
+.section3 .cont7{background: url(image3-3.png);
 background-repeat: no-repeat;
 background-size: cover;
 width:70px;
